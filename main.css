@@ -1,0 +1,15 @@
+nav {
+    background-color: rgb(9, 135, 224);
+    height: 100%;
+    width: 200px;
+    display: inline-block;
+    margin-left: 0;
+}
+
+main {
+    background-color: rgb(41, 41, 41);
+    color: rgb(236, 236, 236);
+    display: inline-block;
+    width: auto;
+    margin: 0;
+}
